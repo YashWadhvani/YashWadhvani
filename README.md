@@ -20,4 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![YashWadhvani's GitHub | Stats](https://stats.quine.sh/YashWadhvani/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=YashWadhvani)
+
+<img style="height:50%;width:33%;max-width: 5%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YashWadhvani&theme=nightowl&langs_count=4&show_icons=true"/>   <img style="height:100%;width:64%;max-width: 100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YashWadhvani&theme=nightowl&column=7&count_private=true&show_icons=true&include_all_commits=true"/>
+
