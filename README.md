@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Development.
 - 📫 How to reach me: \
       IG - @yashwadhvani75 \
-      LinkedIn - www.linkedin.com/in/yash-wadhvani \
+      LinkedIn - in/yash-wadhvani \
       Twitter - @yash_wadhvani
 - ⚡ Fun fact: Too interested to start new things, not motivated enough to continue 🫠🥲
 <!--
