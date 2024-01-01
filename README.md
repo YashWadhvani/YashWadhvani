@@ -22,10 +22,8 @@ Here are some ideas to get you started:
 -->
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=YashWadhvani&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
-
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=html,css,js,java,python,c,mysql&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
-
-<br>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react,bootstrap,express)](https://github.com/Jurredr/github-widgetbox)
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YashWadhvani&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=YashWadhvani&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 <br>
