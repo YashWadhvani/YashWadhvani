@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=YashWadhvani&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,java,python,html,css,c,json,mysql,markdown&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=html,css,js,java,python,c,mysql&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YashWadhvani&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
