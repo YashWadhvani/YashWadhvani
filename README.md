@@ -22,8 +22,6 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YashWadhvani&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=YashWadhvani&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
 
 <img src="https://myreadme.vercel.app/api/embed/YashWadhvani?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-
-<img style="height:50%;width:33%;max-width: 5%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YashWadhvani&theme=nightowl&langs_count=4&show_icons=true"/>   <img style="height:100%;width:64%;max-width: 100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YashWadhvani&theme=nightowl&column=7&count_private=true&show_icons=true&include_all_commits=true"/>
-
