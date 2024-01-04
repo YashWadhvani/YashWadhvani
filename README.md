@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Yash Wadhvani.
-- 🔭 I’m currently working on a Website that can be used to display Menu in a Restro Cafe and Order Food from them. 
+- 🔭 I’m currently working on: \ -A Food Waste Reduction Website and Android App. \ -A Website that can be used to display Menu in a Restro Cafe and Order Food from them. \ -A Website to Find all the Useful Code Snippets during an Engineering Degree. 
 - 🌱 I’m currently learning Web Development.
 - 📫 How to reach me: \
       IG - @yashwadhvani75 \
