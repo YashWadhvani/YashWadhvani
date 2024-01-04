@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=html,css,js,java,python,c,mysql&theme=darkmode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react,bootstrap,express&theme=darkmode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,npm,mongodb,nodejs,jupyter&theme=darkmode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode,github&theme=darkmode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode&theme=darkmode&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=YashWadhvani&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YashWadhvani&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
