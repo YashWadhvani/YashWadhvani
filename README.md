@@ -3,7 +3,7 @@
   1. A Food Waste Reduction Website and Android App. 
   2. A Website that can be used to display Menu in a Restro Cafe and Order Food from them. 
   3. A Website to Find all the Useful Code Snippets during an Engineering Degree. 
-- 🌱 I’m currently learning Web Development.
+- 🌱 I’m currently learning Web Development and Android App Development.
 - 📫 How to reach me: \
       IG - @yashwadhvani75 \
       LinkedIn - www.linkedin.com/in/yash-wadhvani \
